@@ -60,7 +60,7 @@ def tracker(request):
                     
                 return HttpResponse(response)
             else:
-                return HttpResponse('{}')
+                return HttpResponse('{Add Valid Id}')
         except Exception as e:
             return HttpResponse('{}')
 

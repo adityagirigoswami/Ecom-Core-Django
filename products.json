@@ -1,0 +1,15 @@
+[
+    {
+      "model": "shop.product",
+      "pk": 7,
+      "fields": {
+        "product_name": "Samsung Galaxy S23",
+        "category": "Electronics",
+        "subcategory": "Smartphones",
+        "price": 84999,
+        "desc": "Snapdragon 8 Gen 2, 6.1” AMOLED, 50MP camera.",
+        "pub_date": "2024-08-01",
+        "image": "shop/images/s23.jpg"
+      }
+    }
+]
